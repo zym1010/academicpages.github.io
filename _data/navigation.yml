@@ -3,6 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Posters"
+    url: /posters/
+
   - title: "Software"
     url: /software/
 
+  - title: "Notes"
+    url: /notes/
