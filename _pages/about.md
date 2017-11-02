@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th year Ph.D. student advised by Professor [Tai Sing Lee](http://www.cnbc.cmu.edu/~tai/). My main research interests are using and developing neural network-based models to explain computation mechanisms underlying low-level visual cortex of primates, as well as general machine learning and computer vision problems.
+I'm a 5th year Ph.D. student advised by Professor [Tai Sing Lee](http://www.cnbc.cmu.edu/~tai/). My main research interests are using and developing neural network-based models to explain computation mechanisms underlying low-level visual cortex of primates, as well as general machine learning and computer vision problems. [Résumé](http://zym1010.github.io/files/cv/resume.pdf)
 
 Email: yimengzh AT cs DOT cmu DOT edu
