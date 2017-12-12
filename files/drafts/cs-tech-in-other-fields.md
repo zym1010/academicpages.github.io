@@ -84,6 +84,7 @@ Essentially, CS people have deeper understandings of CS products and have better
 
 ## First impression and ease of deployment is extremely important.
 
+Leaving people a good impression is very important, and it's particular important for selling a product in domain A to people in domain B.
 
 ### Examples
 
@@ -104,7 +105,11 @@ One labmate took a machine learning course at CMU. Each assignment had Python an
 
 ### Reasons
 
+Again, it's due to that people organize CS concepts in their mind differently, they people place values on new concepts and difficulties differently.
 
+In example 1, CS people who have experience with C++ or any other lower-level languages will not find installing and updating packages to be very annoying, as they have struggled with such issue for many times; non-CS people who are familiar with MATLAB will find such issues unacceptable.
+
+In example 2, CS people know more that there are well written programs and badly written ones---any great language can be used in bad ways; non-CS people may unconsciously will evaluate a language purely based on some of their own (highly biased) specific use cases.
 
 
 
