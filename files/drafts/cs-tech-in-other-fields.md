@@ -4,7 +4,7 @@ This is a summary of difficulties in applying CS technologies in other sci&tech 
 
 ## A link to the past
 
-When faced with some new thing, **everybody** wants to draw on their experience of old things similar to it in order to understand it. This is **particularly** the case for non-CS people, and may create unexpected difficulties.
+When faced with some new thing, **everybody** wants to draw on their experience of old things similar to it in order to understand it. This is **particularly** the case for non-CS people in the face of CS products (you can replace CS with any other field).
 
 ### Examples
 
