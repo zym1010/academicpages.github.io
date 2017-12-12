@@ -25,7 +25,56 @@ Imagine that there is a graph of CS tools and concepts in your brain. The graph 
 
 For example 1, CS people might treat both MATLAB `struct` and JSON as data formats that can (in Python terminology) store arrays, dictionaries, etc, and non-CS people might simply treat them as separate things.
 
+````
+For CS people:
+
+[JSON] --- [MATLAB struct]
+   \                /
+    \              /
+     \            /
+      [Python dict] 
+      
+For non-CS people:
+
+[JSON]     [MATLAB struct]
+                     
+                    
+                   
+      [Python dict]
+
+````
+
 For example 2, non-CS people might associate Jupyter Notebook with Python, which is not very popular in my field (neuroscience), and Python has worse user experience than MATLAB, in terms of installation, debugging, etc. Overall, non-CS people might switching to Jupyter will let them cost more, as the its convenience is overwhelmed by all the (potential) headaches for setting it up. In addition, they may feel worried that they need to learn Markdown. CS people might consider all those headaches to be minor, learn Markdown in no time if not already learned, and focus on the convenience of having text and code together. 
+
+````
+For CS people:
+
+      [LaTeX] --------[Markup Languages]
+      /                   /     |
+     /                   /      |
+    /                   /       |
+   /                   /        |
+[Jupyter] --- [Markdown]      [HTML] 
+   \                
+    \              
+     \            
+  [Python]   
+      
+For non-CS people:
+
+      [LaTeX] 
+      /                       
+     /       
+    /         
+   /          
+[Jupyter] --- [Markdown]      [HTML] 
+   \                
+    \              
+     \            
+  [Python] --- [Difficult to install]
+
+````
+
 
 Essentially, CS people have deeper understandings of CS products and have better tolerance of those headaches in a layman's opinion.
 
