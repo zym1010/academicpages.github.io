@@ -96,7 +96,7 @@ I'm a Python fan. I persuade (mostly MATLAB) people around me to use Python. Man
 1. There are so many ways to install Python and I feel extremely confused.
 1. I never need to update packages in MATLAB; yet now I need to do them in Python.
 2. Errors like "XXX package is missing" drives me mad.
-3. Jupyter Notebook looks weird compared to my favorite MATLAB IDE.
+3. Jupyter Notebook running in a browser looks weird compared to my favorite MATLAB IDE.
 
 #### Example 2
 
@@ -105,15 +105,26 @@ One labmate took a machine learning course at CMU. Each assignment had Python an
 
 ### Reasons
 
-Again, it's due to that people organize CS concepts in their mind differently, they people place values on new concepts and difficulties differently.
+Again, it's due to that people organize CS concepts in their mind differently, they estimate the costs of handling new concepts and difficulties differently.
 
 In example 1, CS people who have experience with C++ or any other lower-level languages will not find installing and updating packages to be very annoying, as they have struggled with such issue for many times; non-CS people who are familiar with MATLAB will find such issues unacceptable.
 
 In example 2, CS people know more that there are well written programs and badly written ones---any great language can be used in bad ways; non-CS people may unconsciously will evaluate a language purely based on some of their own (highly biased) specific use cases.
 
 
-
 ## Understanding "why" is more important than getting things "work".
 
+I think this is a problem specific to deep learning. In the deep learning era, people have developed many models that "work", without knowing why they work. This is an issue recognized by almost every deep learning professional.
 
-### Examples
+On the other hand, I feel the issue of "why" is highly valued by many scientific fields. In neuroscience, if a paper does not have a section on "why" a model works, then the chance of publication will be slim. 
+
+
+## User interface has to be really friendly and intuitive.
+
+As a CS person, I am OK with struggling with mysterious bugs of open-source programs. I think as CS people understand the underlying mechanisms of those programs better, they are more proactive in fixing bugs, and can often find the correct way to solve them quickly.
+
+For example, if a program gives some mysterious error, I will typically copy and paste that error information into Google, see what other people are saying, and figure out the correct solution for me out of a lot of noisy and misleading ones. If googling doesn't work, I will try to check source code, set break point somewhere, add some print statements, etc. to figure out what's going on.
+
+Non-CS people won't do any of these. They will check user documentation at most, which will never contain what they want to solve the error, and get stuck and frustrated.
+
+Essentially, I feel selling CS products to non-CS people is like selling cars to average customers without knowledge of automobile mechanics. Many CS products are just not that reliable and not worth money and time, if we treat CS product as cars that are simply expected to work, without any customer's help.
