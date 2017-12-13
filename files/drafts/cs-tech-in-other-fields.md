@@ -32,7 +32,7 @@ For CS people:
    \                /
     \              /
      \            /
-      [Python dict] 
+      [Python dict, list, etc.] 
       
 For non-CS people:
 
@@ -40,7 +40,7 @@ For non-CS people:
                      
                     
                    
-      [Python dict]
+      [Python dict, list, etc.]
 
 ````
 
@@ -109,7 +109,7 @@ Again, it's due to that people organize CS concepts in their mind differently, t
 
 In example 1, CS people who have experience with C++ or any other lower-level languages will not find installing and updating packages to be very annoying, as they have struggled with such issue for many times; non-CS people who are familiar with MATLAB will find such issues unacceptable.
 
-In example 2, CS people know more that there are well written programs and badly written ones---any great language can be used in bad ways; non-CS people may unconsciously will evaluate a language purely based on some of their own (highly biased) specific use cases.
+In example 2, CS people know more that there are well written programs and badly written ones---any great language can be used in bad ways; non-CS people may unconsciously evaluate a language purely based on some of their own (highly biased) specific use cases.
 
 
 ## Understanding "why" is more important than getting things "work".
@@ -119,7 +119,7 @@ I think this is a problem specific to deep learning. In the deep learning era, p
 On the other hand, I feel the issue of "why" is highly valued by many scientific fields. In neuroscience, if a paper does not have a section on "why" a model works, then the chance of publication will be slim. 
 
 
-## User interface has to be really friendly and intuitive.
+## User interface has to be really friendly, and bugs should be as few as possible.
 
 As a CS person, I am OK with struggling with mysterious bugs of open-source programs. I think as CS people understand the underlying mechanisms of those programs better, they are more proactive in fixing bugs, and can often find the correct way to solve them quickly.
 
@@ -127,4 +127,4 @@ For example, if a program gives some mysterious error, I will typically copy and
 
 Non-CS people won't do any of these. They will check user documentation at most, which will never contain what they want to solve the error, and get stuck and frustrated.
 
-Essentially, I feel selling CS products to non-CS people is like selling cars to average customers without knowledge of automobile mechanics. Many CS products are just not that reliable and not worth money and time, if we treat CS product as cars that are simply expected to work, without any customer's help.
+Essentially, I feel selling CS products to non-CS people is like selling cars to average customers without knowledge of automobile mechanics. Many CS products are just not that reliable and not worth money and time, if we treat CS products as cars that are simply expected to work, without any customer's help.
