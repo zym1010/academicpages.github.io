@@ -44,3 +44,4 @@ In addition, I have made minor contributions to the following open source projec
 * [pandas](http://pandas.pydata.org/)
 * [scikit-learn](http://scikit-learn.org/)
 * [TensorFlow models](https://github.com/tensorflow/models)
+* [PyTorch](http://pytorch.org/)
