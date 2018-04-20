@@ -7,4 +7,4 @@ venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/252940'
 ---
 
-Shiming Tang, Yimeng Zhang, Zhihao Li, Ming Li, Fang Liu, Hongfei Jiang, Tai Sing Lee; in press. [doi: 10.1101/252940](https://doi.org/10.1101/252940), [code](https://github.com/leelabcnbc/sparse-coding-elife2018)
+Shiming Tang, Yimeng Zhang, Zhihao Li, Ming Li, Fang Liu, Hongfei Jiang, Tai Sing Lee; in press. [**doi: 10.1101/252940**](https://doi.org/10.1101/252940), [**code**](https://github.com/leelabcnbc/sparse-coding-elife2018)
