@@ -3,8 +3,8 @@ title: "Large-scale two-photon imaging revealed super-sparse population codes in
 collection: publications
 permalink: /publication/2018-01-25-bioarxiv-sparse-2018
 date: 2018-01-25
-venue: 'bioRxiv'
+venue: 'eLife (in press)'
 paperurl: 'https://doi.org/10.1101/252940'
 ---
 
-Shiming Tang, **Yimeng Zhang**, Zhihao Li, Ming Li, Fang Liu, Hongfei Jiang, Tai Sing Lee; in press. [**doi: 10.1101/252940**](https://doi.org/10.1101/252940), [**code**](https://github.com/leelabcnbc/sparse-coding-elife2018)
+Shiming Tang, **Yimeng Zhang**, Zhihao Li, Ming Li, Fang Liu, Hongfei Jiang, Tai Sing Lee [**\[bioRxiv version\]**](https://doi.org/10.1101/252940), [**\[code\]**](https://github.com/leelabcnbc/sparse-coding-elife2018)
