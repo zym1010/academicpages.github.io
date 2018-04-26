@@ -7,4 +7,4 @@ venue: 'eLife'
 paperurl: 'https://doi.org/10.7554/eLife.33370'
 ---
 
-Shiming Tang, **Yimeng Zhang**, Zhihao Li, Ming Li, Fang Liu, Hongfei Jiang, Tai Sing Lee [**\[bioRxiv version\]**](https://doi.org/10.1101/252940), [**\[code\]**](https://github.com/leelabcnbc/sparse-coding-elife2018)
+Shiming Tang, **Yimeng Zhang**, Zhihao Li, Ming Li, Fang Liu, Hongfei Jiang, Tai Sing Lee [**\[doi: 10.7554/eLife.33370\]**](https://doi.org/10.7554/eLife.33370), [**\[bioRxiv version\]**](https://doi.org/10.1101/252940), [**\[code\]**](https://github.com/leelabcnbc/sparse-coding-elife2018)
