@@ -1,5 +1,5 @@
 ---
-title: "Large-scale two-photon imaging revealed super-sparse population codes in V1 superficial layer of awake monkeys"
+title: "Large-scale two-photon imaging revealed super-sparse population codes in the V1 superficial layer of awake monkeys"
 collection: publications
 permalink: /publication/2018-01-25-bioarxiv-sparse-2018
 date: 2018-01-25
