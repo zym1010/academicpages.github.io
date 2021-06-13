@@ -12,4 +12,4 @@ I'm a final year Ph.D. student advised by Professor [Tai Sing Lee](http://www.cn
 
 I enjoy working on engineering problems requiring a balance of theoretical knowledge and engineering expertise in ML/CV/AI. I will join [Pinterest](https://www.pinterest.com/) after graduation. [Résumé](http://zym1010.github.io/files/cv/resume.pdf)
 
-Email: yimengzh AT cs DOT cmu DOT edu
+Email: zym1010 AT gmail DOT com
